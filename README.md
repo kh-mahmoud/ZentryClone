@@ -13,7 +13,7 @@ Tailwind CSS – Sleek, modern UI design with utility classes.</br>
 
 
 # 🎬 Live Demo
-🚀 <a>Experience it live</a>
+🚀 <a href='https://zentry-clone-sigma.vercel.app'>Experience it live</a>
 
 
 # 🚀 Getting Started 🏁
