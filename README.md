@@ -1,6 +1,13 @@
 # 🚀 Zentry Web Clone – Realistic Parallax Experience 🌌
 
-🎨 A mind-blowing clone of the Zentry website with ultra-smooth animations, 3D parallax hover effects, and a cinematic web experience.This project recreates Zentry’s unique interactive visuals, where depth, motion, and perspective bring the interface to life.
+# 🎮 Zentry: The Game That Redefines Reality
+Zentry is more than just a game—it's an immersive digital universe where players step into a futuristic cyber world. Known for its breathtaking visuals, deep storytelling, and cutting-edge interactivity, Zentry blurs the line between virtual and real.
+
+# 🌐 Zentry: The Website – A Digital Masterpiece
+To match the game's next-gen feel, <a href='https://zentry.com/'>Zentry's Official Website</a> is a visual marvel. With stunning animations, fluid interactions, and mesmerizing parallax effects, it serves as a gateway to the game’s universe.
+
+# About This Project
+This is a mind-blowing clone of the Zentry website, recreating its ultra-smooth animations, parallax hover effects, and cinematic web experience. The project captures Zentry’s unique interactive visuals, where depth, motion, and perspective bring the interface to life.
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/47500cd1-9845-4dea-acf3-3236e7e14fef" alt="Zentry Clone Preview" width="80%"> </div>
 
