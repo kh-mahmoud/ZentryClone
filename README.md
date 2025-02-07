@@ -18,7 +18,7 @@ Tailwind CSS – Sleek, modern UI design with utility classes.</br>
 
 # 🚀 Getting Started 🏁
 1️⃣ Clone the repository:
-* git clone https://github.com/your-username/zentry-clone.git
+* git clone https://github.com/kh-mahmoud/ZentryClone.git
 * cd zentryClone
 
 2️⃣ Install dependencies:
