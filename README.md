@@ -1,7 +1,7 @@
 # 🚀 Zentry Web Clone – Realistic Parallax Experience 🌌
 
 🎨 A mind-blowing clone of the Zentry website with ultra-smooth animations, 3D parallax hover effects, and a cinematic web experience. 
-![Zentry-Airdrop](https://github.com/user-attachments/assets/47500cd1-9845-4dea-acf3-3236e7e14fef)
+<center>![Zentry-Airdrop](https://github.com/user-attachments/assets/47500cd1-9845-4dea-acf3-3236e7e14fef)</center>
 
 
 This project recreates Zentry’s unique interactive visuals, where depth, motion, and perspective bring the interface to life.
