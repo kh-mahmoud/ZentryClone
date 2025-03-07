@@ -11,7 +11,7 @@ import Story from "./components/Story";
 
 const App = () => {
   return (
-    <main className="w-screen border-2 border-red-500" >
+    <main className="w-screen" >
       <Navbar />
       <Hero />
       <About />
