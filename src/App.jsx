@@ -11,7 +11,7 @@ import Story from "./components/Story";
 
 const App = () => {
   return (
-    <main >
+    <main className="w-full" >
       <Navbar />
       <Hero />
       <About />
